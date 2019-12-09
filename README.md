@@ -1,6 +1,6 @@
 # Toddler autism rsfMRI analyses
 
-Reproducible analysis reports from Lombardo et al., eLife
+Reproducible analysis reports from Lombardo et al., eLife https://doi.org/10.7554/eLife.47427 
 
 Lombardo, M. V., Eyler, L., Moore, A., Datko, M., Carter Barnes, C., Cha, D., Courchesne, E., & Pierce, K. Default mode-visual network hypoconnectivity in an autism subtype with pronounced social visual engagement difficulties.
 
